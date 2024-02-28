@@ -290,19 +290,20 @@ Bicocca and it shows the sales figures of six different
 exercises in the North of Italy’s catering sector. Each
 exercise provides daily sales in euro and the number of
 receipts:
-• Date: represents the daily date;
-• Vendite_1: amount of sales of restaurant 1;
-• Scontrini_1: number of receipts of restaurant 1;
-• Vendite_2: amount of sales of restaurant 2;
-• Scontrini_2: number of receipts of restaurant 2;
-• Vendite_3: amount of sales of restaurant 3;
-• Scontrini_3: number of receipts of restaurant 3;
-• Vendite_4: amount of sales of restaurant 4;
-• Scontrini_4: number of receipts of restaurant 4;
-• Vendite_5: amount of sales of restaurant 5;
-• Scontrini_5: number of receipts of restaurant 5;
-• Vendite_6: amount of sales of restaurant 6;
-• Scontrini_6: number of receipts of restaurant 6;
+* Date: represents the daily date;
+* Vendite_1: amount of sales of restaurant 1;
+* Scontrini_1: number of receipts of restaurant 1;
+* Vendite_2: amount of sales of restaurant 2;
+* Scontrini_2: number of receipts of restaurant 2;
+* Vendite_3: amount of sales of restaurant 3;
+* Scontrini_3: number of receipts of restaurant 3;
+* Vendite_4: amount of sales of restaurant 4;
+* Scontrini_4: number of receipts of restaurant 4;
+* Vendite_5: amount of sales of restaurant 5;
+* Scontrini_5: number of receipts of restaurant 5;
+* Vendite_6: amount of sales of restaurant 6;
+* Scontrini_6: number of receipts of restaurant 6;
+
 In a preliminary analysis it has been detected the
 correlation between sales and number of receipts per
 restaurant.
