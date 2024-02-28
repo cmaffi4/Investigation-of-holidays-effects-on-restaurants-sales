@@ -708,11 +708,11 @@ of our project could be focused on predicting a longer
 period of time, maybe 6 months, in order to ease the
 refuelling of restaurant’s owners. Adding more variables
 to our analysis, such as:
-• refuelling costs;
-• staff costs;
-• management costs;
-• customers reviews;
-• restaurant’s capacity (square meters).
+* refuelling costs;
+* staff costs;
+* management costs;
+* customers reviews;
+* restaurant’s capacity (square meters).
 
 It could be developed a software that installed on owner’s
 devices can act as a management system, in order to
