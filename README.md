@@ -130,7 +130,7 @@ models:
 
 Let’s formalize each of it separately.
 
-A. SARIMAX
+## SARIMAX
 
 The abbreviation stands for Seasonal Autoregressive
 Integrated Moving Average with external variables (SARI-
@@ -211,7 +211,9 @@ residuals;
 5) non-seasonal model;
 6) various amounts of harmonics used to model sea-
 sonal effects
-C. PROPHET
+
+
+## PROPHET
 This tool is very powerful and really intuitive, in fact it
 doesn’t require many technical skills. It is a procedure for
 forecasting time series data based on an additive model
