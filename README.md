@@ -307,9 +307,7 @@ receipts:
 In a preliminary analysis it has been detected the
 correlation between sales and number of receipts per
 restaurant.
-<p align="center">
 ![image](https://user-images.githubusercontent.com/80530899/228176508-462eac11-10d9-47c5-afc4-c4c357916261.png)
-</p>
 Figure 1 shows that the correlation between sales and
 receipts is high. In order to avoid the phenomenon of
 multicollinearity, the focus of the analysis has been main-
