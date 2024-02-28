@@ -127,8 +127,11 @@ models:
 1) SARIMAX;
 2) TBATS;
 3) PROPHET.
+
 Let’s formalize each of it separately.
+
 A. SARIMAX
+
 The abbreviation stands for Seasonal Autoregressive
 Integrated Moving Average with external variables (SARI-
 MAX) and this model tries to account all the effects due
