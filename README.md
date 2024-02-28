@@ -143,15 +143,9 @@ stochastic process, while the second only requires the
 shift-invariance (in time) of the first moment and the cross
 moment (the auto-covariance)).
 This acronym encloses all the main parts of the model:
-• AR (AutoRegressive): it uses the dependency relation-
-ship among an observation and an n-lagged obser-
-vations;
-• I (Integrated): it makes a series stationary through the
-differencing of it.
-• MA (Moving Average): it uses the dependency rela-
-tionship among an observation and a residual error
-through a moving average model applied to the
-lagged observations.
+* AR (AutoRegressive): it uses the dependency relationship among an observation and an n-lagged observations;
+* I (Integrated): it makes a series stationary through the differencing of it.
+* MA (Moving Average): it uses the dependency relationship among an observation and a residual error through a moving average model applied to the lagged observations.
 An Integrated ARMA model of order d is a stochastic
 process that becomes stationary after differentiating it
 d times. Since all stationary process can be cast into
